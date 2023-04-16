@@ -10,3 +10,11 @@
 9. Subimos a github nuestro proyecto
 10. Creando release a prod: git tag -a v1.0.0 -m "Diseño list"
     Subir tag: git push --tags
+
+Command para crear rotes
+ng generate module app-routing --flat --module=app
+
+11. Crear un archivo module para cada carpeta dentro del app y 
+agrupar sus respectivos modulos
+
+12. Crear un archivo routing para separa las rutas hijas por modulo
